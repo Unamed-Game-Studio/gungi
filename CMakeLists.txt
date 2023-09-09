@@ -29,10 +29,10 @@ endif()
 
 # Our Project
 add_executable(${PROJECT_NAME}
-        src/scene/scene.cpp
-        src/scene/scene.h
-        src/application/application.h
-        src/application/application.cpp
+        src/scene/Scene.cpp
+        src/scene/Scene.h
+        src/application/Application.h
+        src/application/Application.cpp
         src/main.cpp
         src/scene/Entity.cpp
         src/scene/Entity.h

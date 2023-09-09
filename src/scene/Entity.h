@@ -8,6 +8,7 @@
 
 
 class Entity {
+public:
     operator bool() const {
         return m_Entity != entt::null;
     }
