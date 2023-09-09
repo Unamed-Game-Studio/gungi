@@ -3,6 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/entt" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/vendor/raylib" vcs="Git" />
   </component>
 </project>
